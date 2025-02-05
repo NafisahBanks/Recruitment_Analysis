@@ -3,15 +3,15 @@
 **PowerBI Dashboard Report to help an IT firm optimize operations and identify the most effective recruitment method using descriptive & diagnostic analysis.**
 
 ## Table of contents
-1. [Project Overview](project-overview)
-2. [Data Sources](data-sources)
-3. [Tools](tools)
-4. [Data Preparation](data-preparation)
-5. [Exploratory Data Analysis](exploratory-data-analysis)
-6. [Data Analysis](data-analysis)
-7. [Key Insights](key-insights)
-8. [Recommendations](recommendations)
-9. [Limitations](limitations)
+1. [Project Overview](#project-overview)
+2. [Data Sources](#data-sources)
+3. [Tools](#tools)
+4. [Data Preparation](#data-preparation)
+5. [Exploratory Data Analysis](#exploratory-data-analysis)
+6. [Data Analysis](#data-analysis)
+7. [Key Insights](#key-insights)
+8. [Recommendations](#recommendations)
+9. [Limitations](#limitations)
 
 # Project Overview
 TedSquare Ltd. is an IT firm that faced financial challenges due to the pandemic, which impacted its HR department’s recruitment function. This project aims to optimize recruitment operations and reduce costs while ensuring effective hiring decisions. This analysis aims to determine the most cost-effective recruitment method by evaluating resource allocation, recruitment effectiveness, and the quality of hires.

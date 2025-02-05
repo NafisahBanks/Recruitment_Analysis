@@ -78,8 +78,10 @@ By implementing these recommendations, the firm can optimize its recruitment str
 **Thank You**
 
 *For more information, feel free to contact me.*
+
 [LinkedIn](https://www.linkedin.com/in/nafisah-bankolemoh/)
-[Email](nafisah.bankolemoh@gmail.com)
+
+[Email](mailto:nafisah.bankolemoh@gmail.com)
 
 
 

@@ -2,6 +2,8 @@
 
 **PowerBI Dashboard Report to help an IT firm optimize operations and identify the most effective recruitment method using descriptive & diagnostic analysis.**
 
+![ux-indonesia-8mikJ83LmSQ-unsplash](https://github.com/user-attachments/assets/7642e87f-b857-4ef5-aa49-1111167263ac)
+
 ## Table of contents
 1. [Project Overview](#project-overview)
 2. [Data Sources](#data-sources)
@@ -44,6 +46,8 @@ TedSquare Ltd. is an IT firm that faced financial challenges due to the pandemic
     - The organization's cost per hire exceeds global standards.
     - Recommendations include leveraging internal mobility, employer branding, and social recruiting.
 
+![Recruitment Cost Analysis](https://github.com/user-attachments/assets/9746bd1c-30e3-436f-a469-3104e76eddcd)
+
  # Key Insights
 - Despite higher costs, external recruitment methods yield high-quality hires with strong performance ratings.
 - Employee referral programs contribute to high costs but generate significant hires.
@@ -77,7 +81,7 @@ By implementing these recommendations, the firm can optimize its recruitment str
 
 **Thank You**
 
-*For more information, feel free to contact me.*
+*For more information, please feel free to reach out to me.*
 
 [LinkedIn](https://www.linkedin.com/in/nafisah-bankolemoh/)
 
